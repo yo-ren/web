@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Yo-ren Co.,Ltd</title><link href="http://yo-ren.com/" rel="alternate"></link><link href="http://yo-ren.com/feeds/news.atom.xml" rel="self"></link><id>http://yo-ren.com/</id><updated>2015-09-30T12:50:00+08:00</updated><entry><title>Yo-ren's new Official Website is Online</title><link href="http://yo-ren.com/yo-rens-new-official-website-is-online.html" rel="alternate"></link><updated>2015-09-30T12:50:00+08:00</updated><author><name>Frank</name></author><id>tag:yo-ren.com,2015-09-30:yo-rens-new-official-website-is-online.html</id><summary type="html">&lt;p&gt;We are happy to announce the opening of the new official website&lt;/p&gt;
+&lt;p&gt;This website is completely &lt;strong&gt;static&lt;/strong&gt;, so that it consumes less cpu hours and does not need a database. This also makes the website very &lt;strong&gt;secure&lt;/strong&gt;, no injections and password hack works on this website.&lt;/p&gt;
+&lt;p&gt;The source code of the website can be found on our &lt;a href="https://github.com/yo-ren/web"&gt;Github Repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to the opensource framework &lt;a href="https://github.com/getpelican/pelican"&gt;Pelican&lt;/a&gt; and &lt;a href="http://getbootstrap.com"&gt;Bootstrap&lt;/a&gt; that made the creation of the website a nice experience.&lt;/p&gt;
+&lt;p&gt;To acquire a copy of this website please issue the following command in your console:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;git clone https://github.com/yo-ren/web.git
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Feel free to submit any bugs and issues with our official at the following address:&lt;/p&gt;
+&lt;p&gt;https://github.com/yo-ren/web/issues&lt;/p&gt;
+&lt;p&gt;And if you like the style of our website, feel free to &lt;strong&gt;fork&lt;/strong&gt; us !&lt;/p&gt;</summary></entry></feed>
