@@ -4,6 +4,8 @@ from __future__ import unicode_literals
  
 AUTHOR = u'Yo-ren Limited'
 SITENAME = u'Yo-ren Co.,Ltd'
+ARCHIVES = u'Archives'
+
 SITEURL = ''
 
 PATH = 'content'
@@ -54,3 +56,31 @@ DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+PLUGIN_PATHS = ['../pelican-plugins/']
+PLUGINS = ['i18n_subsites',]
+
+I18N_SUBSITES = {
+    'ja': {
+        'SITENAME': '有限会社・遊仁堂',
+        'ARCHIVES': 'アーカイブ'
+    },
+    'zh': {
+        'SITENAME': '有限公司・游仁堂',
+        'ARCHIVES': '归档'
+    },
+}
+
+# Language Settings
+languages_lookup = {
+    'ja': '日本語',
+    'zh': '简体中文',                                                
+    'en': 'English',                                                
+}
+
+def lookup_lang_name(lang_code):
+    return languages_lookup[lang_code]
+
+JINJA_FILTERS = {
+    'lookup_lang_name': lookup_lang_name,
+}

@@ -243,3 +243,17 @@ figure.floatcenter, .align-center {
 .navbar-brand img {
     height:30px;
 }
+.index-ball {
+    display:inline-block;
+    border:1px solid black;
+    margin:10px;
+    width:80px;
+    height:80px;
+    line-height:110px;
+    border-radius:40px;
+    background-color: black;
+    color: white;
+}
+.index-panel .panel {
+    height:200px;
+}
