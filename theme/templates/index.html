@@ -1,0 +1,45 @@
+{% extends "article_list.html" %}
+
+{% block index_intro %}
+<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}" style='padding-top:30px;'>
+	<div class="row index-panel">
+		<div class="col-md-4">
+		<div class="panel panel-success">
+                <div class="panel-body text-center">
+                	<div class='index-ball'>
+						<i class="fa fa-server" style='font-size:50px;'></i>
+                	</div>
+	                <h3>Consumer BigData</h3>
+                </div>
+		</div>
+		</div>	
+		<div class="col-md-4">
+		<div class="panel panel-success">
+                <div class="panel-body text-center">
+                <div class="index-ball">
+	                <i class="fa fa-line-chart" style='font-size:50px;'></i>
+                </div>
+	                <h3>Digital Stragety & Execution</h3>
+                </div>
+		</div>
+		</div>	
+		<div class="col-md-4">
+		<div class="panel panel-success">
+                <div class="panel-body text-center">
+                <div class="index-ball">
+		            <i class="fa fa-rocket" style='font-size:50px;'></i>
+                </div>
+                	<h3>Smart Hardware</h3>
+                </div>
+		</div>
+		</div>	
+	</div>
+</div>
+<hr>
+{% endblock %}
+
+{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+
+{% block banner %}
+	{% include 'includes/banner.html' %}
+{% endblock %}
