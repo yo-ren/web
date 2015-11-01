@@ -144,8 +144,12 @@
                 </form></span>
               </li>
             {% endif %}
+			{% if DISPLAY_ARCHIVE_BUTTON %}
               <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">{{ ARCHIVES }}</span></a></li>
+			{% endif %}
+			{% if DISPLAY_GITHUB_BUTTON %}
               <li><a href="https://github.com/yo-ren" target="_blank"><i class="fa fa-github-square"></i><span class="icon-label">Github</span></a></li>
+			{% endif %}
               <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-language"></i><span class="icon-label">{{ DEFAULT_LANG | lookup_lang_name }}</span></a>
                   <ul class="dropdown-menu">

@@ -2,56 +2,34 @@ Title: 前端工程师
 Date: 2015-09-30 10:20
 Category: 招聘
 Author: Frank
-Slug: frontend-engineer
+Slug: senior-front-end-engineer
 Lang: zh
 
 ###Job Description
-**Responsibility:**
+**Responsibilities**
 
-Creating wonderful user experience on the font-end side on all platform ( PC, Mobile, Application ) with extensive knowledge of ECMA6 Script, CSS3 and SVG. Not only Engineering skills are preferred, also aesthetic appreciation  to a certain level is also preferred. People at this position will be able to provide clear feed back to UI/UX designers on usability and awareness. 
+A Senior Front-End Engineer will create high-quality UX/UI with for both mobile and desktop platforms and will be expected to engage in independent research with minimal oversight. This position will also act as the lead engineer for deploying front-end frameworks and technologies.
 
-**Senior Position:**
+**Requirements**
 
-A senior front end engineer will also be able to do independent research and design the main front end structure with different framework / technology.
+- Knowledge of ECMA6Script
 
-**Requirements:**
+- Extensive knowledge of Backbone.js and/or Angular.js
 
-- Knowledge of ECMA6Script.
+- Able to use tools like Bower / Yeoman / Gulp / etc.
 
-- Knowledge of CoffeeScript is a plus.
+- Extensive CSS3 and SVG knowledge
 
-- Extensive knowledge on Backbone.js / Angular.js.
-
-- Knowledge on using Bower / Yeoman / Gulp / etc
-
-- Extensive CSS3 Knowledge
-
-- Extensive knowledge on HTML5 Mobile Compatibility.
+- Extensive knowledge on HTML5 and HTML5 for mobile devices
 
 - Prefers Google as a search engine over Baidu.
 
-**Preferable Skills:**
+**Desirable Skills**
 
-- CoffeeScript
+- Knowledge of CoffeeScript, Backbone.js, Node.js, Gulp/Grunt, Sass/Less, Git, Markdown
 
-- Backbone.js
+- Written and spoken English proficiency
 
-- Gulp / Grunt
+**Contact**
 
-- Node.js
-
-- Sass / Less
-
-- Git
-
-**Additonal Info:**
-
-- Good English Reading / Writing Skills is perfered.
-
-- Good to know using MarkDown to write documents.
-
-###Contact:
-
-Please send your Resume to the address below:
-
-**hr@yo-ren.com**
+Please send your current resume to [hr@yo-ren.com](mailto:hr@yo-ren.com)

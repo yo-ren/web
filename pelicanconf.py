@@ -23,10 +23,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-DISPLAY_CATEGORIES_ON_SIDEBAR = True
-DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = False
+DISPLAY_TAGS_ON_SIDEBAR = False
 SOCIAL = False
-
 
 THEME = 'theme'
 SITELOGO = 'theme/images/yoren_logo_white.png'
@@ -37,10 +36,9 @@ BANNER = 'theme/images/banner.jpeg'
 BANNER_SUBTITLE = 'Digital Marketing'
 
 #Article Specific Options
-SHOW_ARTICLE_AUTHOR = True
-SHOW_ARTICLE_CATEGORY = True
-DISPLAY_BREADCRUMBS = True
-
+SHOW_ARTICLE_AUTHOR = False
+SHOW_ARTICLE_CATEGORY = False
+DISPLAY_BREADCRUMBS = False
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -55,7 +53,13 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+# Hide Sidebar
+HIDE_SIDEBAR = True
+
+# Custom Menu Order
+# Set MENUITEMS, disable menu autopopulate
 
 PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['i18n_subsites',]
