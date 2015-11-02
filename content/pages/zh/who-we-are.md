@@ -7,12 +7,12 @@ Lang: zh
 
 ###Who We Are
 
-The quick brown fox jumped over the lazy dog.
+Coming soon...
 
 ###What We Do
 
-The quick brown fox jumped over the lazy dog.
+Coming soon...
 
 ### Our Mission Statement
 
-The quick brown fox jumped over the lazy dog.
+Coming soon...
