@@ -1,6 +1,6 @@
 Title: ICPaper
 Date: 2015-09-30 18:30
-Category: Product
+Category: Products
 Slug: icpaper
 Lang: en
 

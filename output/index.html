@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>Yo-ren Co.,Ltd</title>
+    <title>Yo-ren Co., Ltd</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -13,13 +13,15 @@
         <meta name="author" content="Yo-ren Limited" />
 
     <!-- Open Graph tags -->
-        <meta property="og:site_name" content="Yo-ren Co.,Ltd" />
+        <meta property="og:site_name" content="Yo-ren Co., Ltd" />
         <meta property="og:type" content="website"/>
-        <meta property="og:title" content="Yo-ren Co.,Ltd"/>
+        <meta property="og:title" content="Yo-ren Co., Ltd"/>
         <meta property="og:url" content="."/>
-        <meta property="og:description" content="Yo-ren Co.,Ltd"/>
+        <meta property="og:description" content="Yo-ren Co., Ltd"/>
 
 
+	<link rel="stylesheet" type="text/css" href="./theme/css/simple-slideshow-styles.css">
+	
     <!-- Bootstrap -->
         <link rel="stylesheet" href="./theme/css/bootstrap.sandstone.min.css" type="text/css"/>
     <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
@@ -61,7 +63,7 @@
                             <a href="./category/news.html">News</a>
                         </li>
                         <li >
-                            <a href="./category/product.html">Product</a>
+                            <a href="./category/products.html">Products</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
@@ -78,21 +80,42 @@
 </div> <!-- /.navbar -->
 <!-- Banner -->
 <style>
-	#banner{
-	    background-image:url("/theme/images/banner.jpeg");
-	}
+.bss-slides.num1
+{
+	max-width: 1140px;
+	margin: auto;
+}
 </style>
 
-<div id="banner">
-	<div class="container">
-		<div class="copy">
-			<h1>Yo-ren Co.,Ltd</h1>
-				<p class="intro">Digital Marketing</p>
-		</div>
-	</div>
+<div class="bss-slides num1">
+	<figure>
+	  <img src="images/placeholder.png" width="100%" /><figcaption>"Medium" by <a href="https://www.flickr.com/photos/thomashawk/14586158819/">Thomas Hawk</a>.</figcaption> 
+	</figure>
+	<figure>
+	  <img src="images/placeholder.png" width="100%" /><figcaption>"Colorado" by <a href="https://www.flickr.com/photos/stuckincustoms/88370744">Trey Ratcliff</a>.</figcaption> 
+	</figure>
+	<figure>
+	  <img src="images/placeholder.png" width="100%" /><figcaption>"Early Morning at the Monte Vista Wildlife Refuge, Colorado" by <a href="https://www.flickr.com/photos/davesoldano/8572429635">Dave Soldano</a>.</figcaption> 
+	</figure>
+	<figure>
+	  <img src="images/placeholder.png" width="100%" /><figcaption>"Sunrise in Eastern Colorado" by <a href="https://www.flickr.com/photos/35528040@N04/6673031153">Pam Morris</a>.</figcaption> 
+	</figure>
+	<figure>
+	  <img src="images/placeholder.png" width="100%" /><figcaption>"colorado colors" by <a href="https://www.flickr.com/photos/cptspock/2857543585">Jasen Miller</a>.</figcaption> 
+	</figure>
 </div>
-<div id="banner-mask">
-</div><!-- End Banner -->
+
+<script src="./theme/js/better-simple-slideshow.min.js"></script>
+<script>
+var opts = {
+    auto : {
+        speed : 3500, 
+        pauseOnHover : true
+    },
+    fullScreen : false
+};
+makeBSS('.num1', opts);
+</script><!-- End Banner -->
 <div class="container" style='padding-top:30px;'>
 	<div class="row index-panel">
 		<div class="col-md-4">
@@ -180,10 +203,10 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="./crm.html">CRM</a></h2>
+                <h2><a href="./crm.html">Customer Relationship Management</a></h2>
                 <div class="summary"><h3>Overview</h3>
-<p>C.R.M stands for <strong>Custom Relationship Management</strong>
-Yo-ren creates and maintains the CRM system for <strong>Supermarket Retail Chains</strong> and <strong>Convenience Store Chains</strong>. By utilizing the latest <strong>Information Technology</strong>, Yo-ren makes the digital membership card for Supermarkets and Convenient Stores. Digital Membership cards, provide an innovative way for retail ...</p>
+<p>CRM stands for <strong>Customer Relationship Management</strong>. 
+Yo-ren creates and maintains CRM systems for retail supermarket chains and convenience store chains. By utilizing the latest information technologies, Yo-ren makes digital membership cards for supermarkets and convenient store customers. These membership cards provide an innovative way for retail chains to interact ...</p>
                     <a class="btn btn-default btn-xs" href="./crm.html">more ...</a>
                 </div>
             </article>

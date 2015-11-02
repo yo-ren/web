@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
  
 AUTHOR = u'Yo-ren Limited'
-SITENAME = u'Yo-ren Co.,Ltd'
+SITENAME = u'Yo-ren Co., Ltd'
 ARCHIVES = u'Archives'
 
 SITEURL = ''

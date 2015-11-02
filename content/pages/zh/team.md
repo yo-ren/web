@@ -7,21 +7,21 @@ Lang: zh
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Osamu Kaneda")
+![](/images/osamu-kaneda.jpg "Osamu Kaneda")
 ## Osamu Kaneda
-*Chief Executive Officer*
+*首席执行官*
 
 ----------------------------------------------
 
 ![](/images/placeholder.png "Frank Yao")
 ## Frank Yao
-*Chief Technology Officer*
+*首席技术官*
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Peihong Wu")
+![](/images/peihong-wu.jpg "Peihong Wu")
 ## Peihong Wu
-*Head of BD*
+*会长*
 
 ----------------------------------------------
 
@@ -31,6 +31,6 @@ Lang: zh
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Crystal")
+![](/images/crystal.jpg "Crystal")
 ## Crystal
-*Chief Editor*
+*主编辑*

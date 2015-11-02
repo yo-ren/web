@@ -7,7 +7,7 @@ Lang: en
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Osamu Kaneda")
+![](/images/osamu-kaneda.jpg "Osamu Kaneda")
 ## Osamu Kaneda
 *Chief Executive Officer*
 
@@ -19,7 +19,7 @@ Lang: en
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Peihong Wu")
+![](/images/peihong-wu.jpg "Peihong Wu")
 ## Peihong Wu
 *Head of BD*
 
@@ -31,6 +31,6 @@ Lang: en
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Crystal")
+![](/images/crystal.jpg "Crystal")
 ## Crystal
 *Chief Editor*
