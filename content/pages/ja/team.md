@@ -27,7 +27,7 @@ Lang: ja
 
 ![](/images/placeholder.png "Katsu Ge")
 ## Katsu Ge
-*Head of EPR*
+*EPRチーム責任者*
 
 ----------------------------------------------
 

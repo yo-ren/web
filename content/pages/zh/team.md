@@ -27,10 +27,10 @@ Lang: zh
 
 ![](/images/placeholder.png "Katsu Ge")
 ## Katsu Ge
-*Head of EPR*
+*EPR部门总负责人*
 
 ----------------------------------------------
 
 ![](/images/crystal.jpg "Crystal")
 ## Crystal
-*主编辑*
+*编辑部负责人*
