@@ -1,5 +1,5 @@
 Title: Team
-Date: 2015-10-31 04:25
+Date: 2015-12-17 13:57
 Category: Team
 Author: Jason
 Slug: team
@@ -7,30 +7,30 @@ Lang: en
 
 ----------------------------------------------
 
-![](/images/osamu-kaneda.jpg "Osamu Kaneda")
+<img src="/images/osamu-kaneda.jpg" alt="Osamu Kaneda" width="300px" height="400px" />
 ## Osamu Kaneda
 *Chief Executive Officer*
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Frank Yao")
+<img src="/images/frank-yao.jpg" alt="Frank Yao" width="300px" height="400px" />
 ## Frank Yao
 *Chief Technology Officer*
 
 ----------------------------------------------
 
-![](/images/peihong-wu.jpg "Peihong Wu")
+<img src="/images/peihong-wu.jpg" alt="Peihong Wu" width="300px" height="400px" />
 ## Peihong Wu
 *Head of BD*
 
 ----------------------------------------------
 
-![](/images/placeholder.png "Katsu Ge")
+<img src="/images/katsu-ge.jpg" alt="Katsu Ge" width="300px" height="400px" />
 ## Katsu Ge
 *Head of EPR*
 
 ----------------------------------------------
 
-![](/images/crystal.jpg "Crystal")
+<img src="/images/crystal.jpg" alt="Crystal" width="300px" height="400px" />
 ## Crystal
 *Chief Editor*
